@@ -1,0 +1,49 @@
+body {
+	margin: 0;
+	padding-top: 100px;
+  background-color: #69a2c5;
+}
+
+.submit-area {
+	padding: 30px;
+	margin-top: 50px;
+	border-radius: 10px;
+	box-shadow: 5px 5px rgb(240, 229, 229);
+  color: white;
+  background-color: royalblue;
+}
+
+#acc-area {
+	margin-top: 5%;
+}
+
+.deposit {
+	background-color: slateblue;
+}
+
+.withdraw {
+	background-color: rgb(56, 52, 120);
+}
+
+.balance {
+	background-color: rgb(31, 6, 81);
+}
+
+.status {
+	margin: 0 20px;
+	color: white;
+	padding: 20px;
+	border-radius: 10px;
+}
+.button {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+  }
